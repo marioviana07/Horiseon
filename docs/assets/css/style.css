@@ -158,7 +158,7 @@ I put together in a same "class" because is the same propierity than "benefit-le
     background-color: #0072bb;
     color: #ffffff;
 }
-
+*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -167,10 +167,8 @@ I put together in a same "class" because is the same propierity than "benefit-le
     background-color: #0072bb;
     color: #ffffff;
 }
-*/
 
-
-                    /* Elements Style Menu*/
+/* Elements Style Menu*/
 .onlyone img {
     max-height: 200px;
 }
@@ -179,11 +177,10 @@ I put together in a same "class" because is the same propierity than "benefit-le
 .online-reputation-management img {
     max-height: 200px;
 }
-
+*/
 .social-media-marketing img {
     max-height: 200px;
 }
-*/
 
 .onlyone h2 {
     margin-bottom: 20px;
@@ -194,13 +191,13 @@ I put together in a same "class" because is the same propierity than "benefit-le
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-                    "Element Style end"
-*/
+
+/*"Element Style end"*/
 
 /*FOOTER*/
 .footer {
