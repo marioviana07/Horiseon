@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+
 /* style the <Header> */
 body {
     background-color: #d9dcd6;
@@ -48,7 +49,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 /* HERO STYLE --- MOCK-UP*/
 .hero {
@@ -85,22 +86,6 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-/* Lead Generacion Style Mock-up*/
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /* Div and float Style */
@@ -142,6 +127,23 @@ p {
 }
 
 /*"Element Style end"*/
+
+/* Lead Generacion Style Mock-up*/
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 
 /*FOOTER*/
 .footer {
